@@ -10,6 +10,10 @@ body {
   color: #FFF;
 }
 
+p {
+  margin: 2px 0;
+}
+
 #container {
   background: #F74B5E;
   min-height: calc(100vh - 32px);
@@ -30,7 +34,7 @@ body {
 }
 
 .notes {
-  width: 750px;
+  width: 800px;
   margin: auto;
   text-align: left;
 }
@@ -54,7 +58,7 @@ ol, ul {
   justify-content: center; 
   align-items: center;
   margin: auto;
-  margin-top: 64px;
+  margin-top: 5vh;
 }
 
 .links {
@@ -67,7 +71,7 @@ ol, ul {
   align-items: center;
   padding-top: 4px;
   margin: auto;
-  margin-top: 32px;
+  margin-top: 3vh;
 }
 
 .logo {
